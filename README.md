@@ -2,7 +2,7 @@
 
 ## Rationale
 
-The Sonata Project is the most popular CRUD admin interface for the Symfony Framework.
+The [Sonata Project](http://sonata-project.org) is the most popular CRUD admin interface for the Symfony Framework.
 
 Although very well architectured on the PHP level, the current situation regarding it's client-side user interface leaves much to be desired.
 
