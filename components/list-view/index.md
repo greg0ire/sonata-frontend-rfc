@@ -3,7 +3,7 @@
 
 `.sonata-admin-list`
 
-The list component MUST have a `data-list-mode` attribute with it's value set to the lowercased list mode identifier.
+The list component MUST have a `data-list-mode` attribute with its value set to the lowercased list mode identifier.
 
 It MUST have a modifier: `sonata-admin-list--mode-{mode}` where mode is the value of the `data-list-mode` attribute.
 
@@ -41,7 +41,7 @@ It MUST have the class `sonata-admin-list__item__field`.
 
 It MUST have a `data-field-type` attribute set to the value of the type property of the FieldDescription object.
 
-It SHOULD have a type modifier `sonata-admin-list__item__field--type-{type}` where `{type}` is the value of it's `data-field-type` attribute.
+It SHOULD have a type modifier `sonata-admin-list__item__field--type-{type}` where `{type}` is the value of its `data-field-type` attribute.
 
 If the field can be edited inline, it MUST have an editable modifier: `sonata-admin-list__item__field--is-editable`.
 
